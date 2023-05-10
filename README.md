@@ -1,2 +1,2 @@
 # SimpleRepo
-Simple Repo
+Simple R
